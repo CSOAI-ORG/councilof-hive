@@ -1,0 +1,22 @@
+{
+  "acpVersion": "0.1",
+  "agent": {
+    "name": "councilof",
+    "description": "Multi-agent BFT deliberation \u2014 board-grade decision-making.",
+    "version": "0.1.0",
+    "provider": "CSOAI-ORG",
+    "interfaces": [
+      {
+        "type": "a2a",
+        "url": "https://councilof.ai"
+      }
+    ],
+    "capabilities": [
+      "agent-orchestrator-mcp",
+      "agent-negotiation-mcp",
+      "csoai-governance-crosswalk-mcp",
+      "a2a-mesh",
+      "memoria-commit"
+    ]
+  }
+}
