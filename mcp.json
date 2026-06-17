@@ -1,0 +1,14 @@
+{
+  "name": "councilof.ai",
+  "title": "Council of AI — Deliberative Governance Body",
+  "description": "Multi-stakeholder council setting standards, resolving disputes, and steering ethical AI policy.",
+  "cluster": "TRUST-GOVERNANCE",
+  "servers": [
+        { "id": "policy-mcp.sov3.meok.ai", "url": "https://policy-mcp.sov3.meok.ai/", "protocol": "mcp-1.0" },
+    { "id": "standards-mcp.sov3.meok.ai", "url": "https://standards-mcp.sov3.meok.ai/", "protocol": "mcp-1.0" },
+    { "id": "deliberation-mcp.sov3.meok.ai", "url": "https://deliberation-mcp.sov3.meok.ai/", "protocol": "mcp-1.0" }
+  ],
+  "registrar": "https://mcp-registry.sov3.meok.ai/register",
+  "protocol": "https://openMCP.ai/protocol",
+  "$schema": "https://openMCP.ai/schemas/mcp-server-list.json"
+}
