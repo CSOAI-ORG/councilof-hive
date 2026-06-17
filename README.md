@@ -45,7 +45,7 @@ Per L6 (hermes.yml), this hive will only call MCPs from:
 
 ## Revenue
 
-Audits every cross-hive Memoria commit; flip for $5-15k OR keep as governance infra.
+Audits every cross-hive Memoria commit; flip for $5-15k OR keep as governance infra. Per-call x402 re-priced $1→$5 (Watchdog = certification, new market category; [[meok-deep-audit-2026-06-08]] P1-2).
 
 ## Related
 

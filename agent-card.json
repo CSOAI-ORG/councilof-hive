@@ -65,7 +65,7 @@
   "x402Pricing": {
     "enabled": true,
     "currency": "USD",
-    "amount": "1.00",
+    "amount": "5.00",
     "freeCallsPerIPPerDay": "0"
   }
 }
